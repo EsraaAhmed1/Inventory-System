@@ -8,7 +8,7 @@ import Backend.*;
 
 /**
  *
- * @author Arwa Mohamed
+ *
  */
 public class InventorySystemWindow extends javax.swing.JFrame implements Node {
        
