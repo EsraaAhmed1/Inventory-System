@@ -6,7 +6,7 @@ package Constants;
 
 /**
  *
- * @author Arwa Mohamed
+ * 
  */
 public interface LoginCredentials {
  String ADMIN_USERNAME = "admin";
