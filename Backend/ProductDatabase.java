@@ -6,7 +6,7 @@ package Backend;
 
 /**
  *
- * @author Arwa Mohamed
+ * 
  */
 public class ProductDatabase extends Database{
     public ProductDatabase(String filename) {
