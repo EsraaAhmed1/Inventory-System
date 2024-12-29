@@ -8,7 +8,7 @@ import static Constants.FileNames.PRODUCT_FILENAME;
 
 /**
  *
- * @author Arwa Mohamed
+ * 
  */
 import java.io.*;
 import java.util.*;
