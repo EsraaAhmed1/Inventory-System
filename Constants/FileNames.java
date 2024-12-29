@@ -6,7 +6,7 @@ package Constants;
 
 /**
  *
- * @author Arwa Mohamed
+ * 
  */
 public interface FileNames {
  String PRODUCT_FILENAME = "Products.txt";
