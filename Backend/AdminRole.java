@@ -6,7 +6,7 @@ package Backend;
 
 /**
  *
- * @author Arwa Mohamed
+ * 
  */
 
 import static Constants.FileNames.EMPLOYEE_FILENAME;
