@@ -6,7 +6,7 @@ package Backend;
 
 /**
  *
- * @author Arwa Mohamed
+ * 
  */
 public class  Product implements Datatype {
     private String productID;
