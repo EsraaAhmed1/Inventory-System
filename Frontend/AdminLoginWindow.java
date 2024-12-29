@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Arwa Mohamed
+ * 
  */
 public class AdminLoginWindow extends javax.swing.JFrame implements Node {
 
