@@ -12,7 +12,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Arwa Mohamed
+ * 
  */
 public class ViewEmployeesWindow extends javax.swing.JFrame implements Node {
 
