@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Arwa Mohamed
+ * 
  */
 public class AdminRoleWindow extends javax.swing.JFrame implements Node {
 
