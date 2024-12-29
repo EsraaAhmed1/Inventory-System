@@ -6,7 +6,7 @@ package Backend;
 
 /**
  *
- * @author Arwa Mohamed
+ * 
  */
 public class EmployeeUserDatabase extends Database{
     public EmployeeUserDatabase(String filename) {
