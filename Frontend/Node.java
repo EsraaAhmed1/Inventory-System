@@ -6,7 +6,7 @@ package Frontend;
 
 /**
  *
- * @author Arwa Mohamed
+ * 
  */
 public interface Node {
     public Node getParentNode();
