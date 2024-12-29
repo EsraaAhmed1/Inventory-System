@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Arwa Mohamed
+ * 
  */
 public class RemoveEmployeeWindow extends javax.swing.JFrame implements Node  {
 
