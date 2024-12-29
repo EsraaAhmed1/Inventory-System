@@ -6,7 +6,7 @@ package Backend;
 
 /**
  *
- * @author Arwa Mohamed
+ * 
  */
 public class EmployeeUser implements Datatype {
     private String employeeID;
